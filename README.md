@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.png" alt="Java 17 + Swing + MySQL – CRUD de Clientes" />
+</p>
+
 java-clientes — CRUD de Clientes (Java 17 + Swing + MySQL)
 
 
