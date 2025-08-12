@@ -1,4 +1,3 @@
-![Java 17 + Swing + MySQL – CRUD de Clientes](docs/banner.png)
 
 java-clientes — CRUD de Clientes (Java 17 + Swing + MySQL)
 
