@@ -1,0 +1,5 @@
+com\gamardo\clientes\ui\ClienteForm.class
+com\gamardo\clientes\App.class
+com\gamardo\clientes\db\ConnectionFactory.class
+com\gamardo\clientes\dao\ClienteDAO.class
+com\gamardo\clientes\model\Cliente.class
